@@ -28,4 +28,4 @@ This checklist is a self-assessment aid. It is not legal or compliance advice an
 
 License: CC BY 4.0. Share it, adapt it, and keep the attribution.
 
-Full CLI audit + pasteable attestation: https://renvt89.gumroad.com/l/vdmrtn?ref=gh
+Full CLI audit + pasteable attestation: https://renevibe76.gumroad.com/l/vdmrtn?ref=gh
